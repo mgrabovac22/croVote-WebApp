@@ -28,3 +28,7 @@ F03    | Verfication | System will verify if the votes have been tampered with d
 F04    | Audit trail | System will maintain an audit trail of all voting activity to make it transparent. System will be able to log all voting details and it's activity. |
 F05    | Security Testing | System will be using different security testing techniques like penetration testing, vulnerability scanning and code review to ensure system doesn't kave security vulnerabilities. | 
 
+<img width="1866" height="924" alt="image" src="https://github.com/user-attachments/assets/4e331f97-a8d6-4510-bc79-27ffbbed02a7" />
+
+<img width="1861" height="924" alt="image" src="https://github.com/user-attachments/assets/32583e52-071a-4ba3-8267-9bb35df404ca" />
+
